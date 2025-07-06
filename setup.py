@@ -7,7 +7,7 @@ setup(
     long_description = open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     author="Brooklyn widz",
-    url="https://github.com/yourusername/love_lines",
+    url="https://github.com/brooklynwidz/love_lines",
     license="MIT",
     packages=find_packages(),
     classifiers=[
