@@ -1,0 +1,13 @@
+
+---
+
+### 📜 5. `LICENSE` (MIT License)
+Let me know if you want to include an open-source license like MIT or not.
+
+---
+
+## 🚀 Final Steps:
+
+1. Run and test locally with:
+```bash
+pip install -e .
